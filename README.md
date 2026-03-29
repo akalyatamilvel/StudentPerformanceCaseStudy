@@ -1,8 +1,5 @@
 # 🎓 Student Performance Analysis Using Python & Tableau
 
-## About
-A Data-Driven Analysis of Academic and Lifestyle Factors 
-Affecting Student Performance Using Python
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
