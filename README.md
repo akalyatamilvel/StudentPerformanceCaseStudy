@@ -1,5 +1,10 @@
 # 🎓 Student Performance Analysis Using Python & Tableau
 
+## About
+A Data-Driven Analysis of Academic and Lifestyle Factors 
+Affecting Student Performance Using Python
+
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
@@ -7,7 +12,7 @@
 
 ---
 
-## 📌 About This Project
+## About This Project
 
 A complete **Data-Driven Case Study** analyzing academic and lifestyle 
 factors that affect student examination performance.
@@ -17,7 +22,7 @@ Based Case Study Assignment** for the subject **Data Analytics**.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Student academic performance is influenced by multiple factors including:
 - 📚 Study Hours
@@ -33,7 +38,7 @@ which ones **positively or negatively** affect final exam marks.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -46,7 +51,7 @@ which ones **positively or negatively** affect final exam marks.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **File:** `student_data.csv`
 - **Records:** 15 students
@@ -69,7 +74,7 @@ which ones **positively or negatively** affect final exam marks.
 
 ---
 
-## 🧠 HOTS Goals Covered
+## HOTS Goals Covered
 
 | Case Study | Challenge | HOTS Goal |
 |------------|-----------|-----------|
@@ -82,7 +87,7 @@ which ones **positively or negatively** affect final exam marks.
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ✅ **Study Hours ↑ → Marks ↑** (Strong positive correlation: 0.96)
 
@@ -96,13 +101,13 @@ which ones **positively or negatively** affect final exam marks.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 StudentPerformanceCaseStudy/
 │
 ├── student_data.csv          # Dataset
 ├── analysis.py               # Main Python code
-│
+├── README.md
 ├── output_screenshots/
 │   ├── scatter_study.png     # Study Hours vs Marks
 │   ├── scatter_mobile.png    # Mobile Usage vs Marks
@@ -114,7 +119,7 @@ StudentPerformanceCaseStudy/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 **1. Clone the repository**
 ```bash
@@ -137,7 +142,7 @@ All charts will be saved in `output_screenshots/` folder automatically!
 
 ---
 
-## 📊 Output Screenshots
+## Output Screenshots
 
 ### Study Hours vs Marks
 ![Study Hours](output_screenshots/scatter_study.png)
@@ -153,22 +158,22 @@ All charts will be saved in `output_screenshots/` folder automatically!
 
 ---
 
-## 🖥️ Tableau Dashboard
+## Tableau Dashboard
 
 An interactive dashboard was built in Tableau featuring:
 - 📊 Study Hours vs Marks (Scatter Plot)
 - 📊 Stress Level vs Marks (Bar Chart)
 - 📊 Attendance vs Marks (Scatter Plot)
 - 🔽 Interactive filters by Stress Level & Class Participation
+  
 ![Dashboard](output_screenshots/dashboard.png)
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Akalya Tamilvel Senbakam**
-CSE AIML-A
-Data Analytics — HoT Case Study Assignment
+
 
 ---
 
